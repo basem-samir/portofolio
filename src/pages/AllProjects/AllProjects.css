@@ -1,0 +1,22 @@
+.all-projects-page {
+  padding: 120px 0 80px;
+  min-height: 100vh;
+}
+
+.all-projects-header {
+  margin-bottom: 60px;
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-secondary);
+  font-size: 15px;
+  margin-bottom: 40px;
+  transition: color 0.2s ease;
+}
+
+.back-link:hover {
+  color: var(--accent);
+}
