@@ -116,3 +116,17 @@
   padding: 10px;
   font-size: 14px;
 }
+
+@media (max-width: 768px) {
+  .projects-section {
+    padding: 40px 0;
+  }
+  .section-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -13,9 +13,7 @@ const Certificates = () => {
             <div className="section-title">CERTIFICATES</div>
             <h2 className="section-heading">Professional Certifications</h2>
           </div>
-          <Link to="#" className="view-all-link">
-            View All Certificates <ArrowRight size={18} />
-          </Link>
+
         </div>
 
         <div className="cert-cards">
