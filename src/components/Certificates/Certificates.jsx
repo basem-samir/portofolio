@@ -31,7 +31,6 @@ const Certificates = () => {
             <div className="cert-issuer">Digilians Digital Pioneers Initiative</div>
             <div className="cert-bottom">
               <span className="cert-date">Issued: July 2026</span>
-              <Link to="#" className="btn btn-outline btn-verify">Verify</Link>
             </div>
           </motion.div>
 
@@ -47,7 +46,6 @@ const Certificates = () => {
             <div className="cert-issuer">Coursera</div>
             <div className="cert-bottom">
               <span className="cert-date">Issued: 2024</span>
-              <Link to="#" className="btn btn-outline btn-verify">Verify</Link>
             </div>
           </motion.div>
 
@@ -63,7 +61,6 @@ const Certificates = () => {
             <div className="cert-issuer">freeCodeCamp</div>
             <div className="cert-bottom">
               <span className="cert-date">Issued: 2023</span>
-              <Link to="#" className="btn btn-outline btn-verify">Verify</Link>
             </div>
           </motion.div>
         </div>
