@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "portofolio-lac-iota-75.vercel.app"
+        }
+      ],
+      "destination": "https://basemsamir.vercel.app/$1",
+      "permanent": true
+    }
+  ]
+}
