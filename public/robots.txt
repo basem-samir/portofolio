@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://portofolio-lac-iota-75.vercel.app/sitemap.xml
+Sitemap: https://basemsamir.vercel.app/sitemap.xml
